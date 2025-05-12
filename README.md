@@ -1,4 +1,6 @@
 # Article Theme
 
 > [!NOTE]
-> This repository contains the _build artifacts_ that comprise the MyST Article Theme. To report an bug or request a feature, please see the [upstream themes repo](https://github.com/executablebooks/myst-theme).
+> This repository contains the _build artifacts_ for the MyST Article Theme, it is not meant for editing by humans.
+> - Source code exists at [`github.com/jupyter-book/myst-theme`](https://github.com/jupyter-book/myst-theme). Make edits there, not here.
+> - To report an bug or request a feature, use the [`github.com/jupyter-book/myst-theme/issues`](https://github.com/executablebooks/myst-theme/issues).
